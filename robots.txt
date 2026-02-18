@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pgram1.github.io/pgram1-landing/sitemap.xml
